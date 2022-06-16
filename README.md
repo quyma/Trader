@@ -1,2 +1,3 @@
-# Trader
-Fimathe xxxxxxxxxxxxxxxxxx
+#licenças
+*Nome=*
+#licenças
