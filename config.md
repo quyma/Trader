@@ -5,4 +5,5 @@
  |Lucas             |2022.05.21 00:00:00|Nao Ativo|12345678|
  |Jorge             |2025.05.21 00:00:00|Ativo    |300261357|
  |Jorge Conta Real  |2025.05.21 00:00:00|Ativo    |20023498| 
+ |Jessica           |2025.05.21 00:00:00|Ativo    |300284278| 
 #licencas
